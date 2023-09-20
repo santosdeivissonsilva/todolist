@@ -1,4 +1,4 @@
-# todolist-api
+# Todo List API
 Esta API permite a criação de listas de tarefas detalhadas.
 
 ### Estrutura deste Projeto:
